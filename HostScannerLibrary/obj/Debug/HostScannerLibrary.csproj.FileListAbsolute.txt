@@ -1,0 +1,6 @@
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\bin\Debug\HostScannerLibrary.dll
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\bin\Debug\HostScannerLibrary.pdb
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\obj\Debug\HostScannerLibrary.csprojAssemblyReference.cache
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\obj\Debug\HostScannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\obj\Debug\HostScannerLibrary.dll
+C:\Users\weidemann\Desktop\WPF_HostScanner\HostScannerLibrary\obj\Debug\HostScannerLibrary.pdb

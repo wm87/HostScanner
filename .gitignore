@@ -1,0 +1,9 @@
+
+*.cache
+*.baml
+*.cache
+HostScanner\bin\*
+HostScanner\obj\*
+HostScannerLibrary\bin\*
+HostScannerLibrary\obj\*
+.vs\*
